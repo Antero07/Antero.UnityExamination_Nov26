@@ -31,6 +31,16 @@
   }
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Byggen\UnityExamination_Nov26.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Temp\Antero.UnityExamination_Nov26\Byggen" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity 6000.3.9f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Temp\Antero.UnityExamination_Nov26 -debugCodeOptimization" />
@@ -78,7 +88,7 @@
       <workItem from="1795159163213" duration="5000" />
       <workItem from="1795161591404" duration="586000" />
       <workItem from="1795162247470" duration="2000" />
-      <workItem from="1795163061104" duration="2396000" />
+      <workItem from="1795163061104" duration="3002000" />
     </task>
     <servers />
   </component>
