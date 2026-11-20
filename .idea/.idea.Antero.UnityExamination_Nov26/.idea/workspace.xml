@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="baea63d1-2995-42b1-a7b0-c0c24fef6772" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Antero.UnityExamination_Nov26/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Antero.UnityExamination_Nov26/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Player.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Player.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Player_idle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Player_idle.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +85,7 @@
       <workItem from="1795159163213" duration="5000" />
       <workItem from="1795161591404" duration="586000" />
       <workItem from="1795162247470" duration="2000" />
+      <workItem from="1795163061104" duration="1961000" />
     </task>
     <servers />
   </component>
@@ -88,6 +94,7 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
     <option name="unityProject" value="true" />
     <option name="unityProjectFolder" value="true" />
   </component>
